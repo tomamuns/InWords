@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\bin\Release\InWords.exe.config
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\bin\Release\InWords.exe
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\bin\Release\InWords.pdb
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.InWordsForm.resources
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.exe
+C:\Users\Lenovo\Desktop\Developent\InWords\InWords\obj\Release\InWords.pdb
