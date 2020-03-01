@@ -1,4 +1,4 @@
-# InWords
+# InWords v1.0
 This application will convert integer amount into word both in english and bangla format.
 
 Example (Bangla):
